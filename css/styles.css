@@ -3,6 +3,19 @@ body {
 }
 h1 {
     color: #000000;
-    font-family: 'Cormorant Unicase'
-    font-size: 36
+    font-family: "Cormorant Unicase", serif;
+    font-weight: 500;
+    font-style: normal;
+      
 }
+P {
+    color: #000000;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+  
